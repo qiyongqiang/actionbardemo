@@ -13,8 +13,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		String name="dd";
-		textview1 = (TextView)findViewById(android.R.id.text1);
-		textview1.setText("dd");
+		String nima="";
+		TextView textView ;
 	}
 }
